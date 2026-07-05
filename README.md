@@ -44,7 +44,7 @@ The dataset contains information such as:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google colab
 
 ---
 
